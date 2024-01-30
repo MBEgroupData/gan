@@ -32,4 +32,4 @@
 
 ## Reference
 SEM image analyzed from:
-DOI: 10.1016/0022-0248(89)90200-5
+DOI: 10.1063/1.1322370
